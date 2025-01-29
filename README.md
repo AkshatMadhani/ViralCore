@@ -8,13 +8,13 @@
 💡 **Content Ideas & Scripts**: Get tailored content ideas and even scripts for videos, posts, or campaigns to align with your brand's vision.  
 📈 **Campaign Tracking Dashboard**: Track your campaigns' performance, engagement, and ROI with an easy-to-use dashboard.  
 ⚡ **Maximize Engagement**: Leverage AI-powered insights to enhance user engagement, boost brand visibility, and surpass your competitors.  
-🔧 **Data-Driven Decisions**: Use tools like Phi models, Gemini, ExaTools, and Groq APIs for precise influencer data analysis and actionable campaign optimization.
+🔧 **Data-Driven Decisions**: Use tools like Phi models, Gemini, ExaTools for precise influencer data analysis and actionable campaign optimization.
 
 ## Features
 
 - **Creator Recommendations**: Get personalized suggestions for the best content creators to work with based on brand identity, audience match, and campaign goals.
 - **Content Ideas & Scripts**: Receive creative content ideas and video scripts to match your brand's style, along with detailed guidance on tone, length, and format.
-- **Hashtag Suggestions**: Discover trending and relevant hashtags to increase visibility and reach for your campaign on platforms like Instagram, YouTube, and TikTok.
+- **Hashtag Suggestions**: Discover trending and relevant hashtags to increase visibility and reach for your campaign on platforms like Instagram, YouTube, and Facebook.
 - **Competitor Analysis**: Analyze competitor campaigns to find gaps and strategies to outperform them.
 - **Campaign Performance Dashboard**: Monitor the performance of your campaigns with detailed analytics on views, engagement, ROI, and more.
 
