@@ -32,7 +32,7 @@
    git clone https://github.com/AkshatMadhani/ViralCore.git
    cd ViralCore
 python -m venv env
-source env/bin/activate   # On Windows: env\Scripts\activate
+# On Windows: env\Scripts\activate
 pip install -r requirements.txt
 GEMINI_API_KEY=<your_gemini_api_key>
 python campagin.py
