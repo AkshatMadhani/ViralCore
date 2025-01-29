@@ -26,16 +26,34 @@
 - pip
 
 ### Steps
-
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/AkshatMadhani/ViralCore.git
    cd ViralCore
-python -m venv env
-# On Windows: env\Scripts\activate
-pip install -r requirements.txt
-GEMINI_API_KEY=<your_gemini_api_key>
-python campagin.py
+   ```
+
+2. Create a virtual environment:
+   ```bash
+   python -m venv env
+   source env/bin/activate   # On Windows: env\Scripts\activate
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Configure API keys:
+   - Set up your **GOOGLE API keys** and any other required configurations in a `.env` file:
+     ```
+     GOOGLE_API_KEY=<your_api_key>
+     ```
+
+5. Run the application:
+   ```bash
+   python campagin.py
+   ```
+
 
 ## Technologies Used
 - **Programming Language**: Python
