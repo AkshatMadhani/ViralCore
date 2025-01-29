@@ -3,3 +3,4 @@ phidata
 exa
 exa_py
 duckduckgo-search
+google-generativeai
