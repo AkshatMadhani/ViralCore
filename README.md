@@ -61,11 +61,26 @@
 - **Libraries & Tools**: Streamlit, ExaTools, Matplotlib
 - **APIs**:Gemini API
 - **Deployment**: Streamlit Cloud (for app deployment and dashboard)
+
+## Contributing
+
 We welcome contributions to enhance **ViralCore**! To contribute:
 
-1. **Fork the repository**.
-2. **Create a feature branch**: 
+1. Fork the repository.
+2. Create a feature branch:
    ```bash
    git checkout -b feature-branch-name
+   ```
+3. Commit your changes:
+   ```bash
    git commit -m "Describe your feature"
+   ```
+4. Push to your branch:
+   ```bash
    git push origin feature-branch-name
+   ```
+5. Open a pull request.
+
+---
+
+"Unlock your brand’s full potential with **ViralCore** – where creativity meets data-driven marketing! 🌟"
