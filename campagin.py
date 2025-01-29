@@ -36,7 +36,7 @@ content_tone = st.text_input("Preferred tone for the campaign (e.g., fun, profes
 
 competitors = st.text_input("Enter your competitors ")
 
-if st.button("Generate Creator and Campaign Recommendations"):
+if st.button("Transform Ideas Into Action"):
     user_query = f"""
     I am representing a brand named {brand_name} in the {industry} industry. 
     Our target audience includes {target_audience}, and our primary goal is {primary_goal}.
