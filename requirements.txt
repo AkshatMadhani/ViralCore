@@ -4,3 +4,4 @@ exa
 exa_py
 duckduckgo-search
 google-generativeai
+google-api-python-client
